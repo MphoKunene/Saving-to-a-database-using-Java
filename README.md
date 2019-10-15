@@ -1,4 +1,5 @@
 # Saving-to-a-database-using-Java
+//using a bookstore as an example
 Using a database in java
 
 import java.util.Scanner;
