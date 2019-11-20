@@ -1,4 +1,4 @@
-# Saving-to-a-database-using-Java
+# Bookstore-using-a-database-in-Java
 //using a bookstore as an example
 Using a database in java
 
